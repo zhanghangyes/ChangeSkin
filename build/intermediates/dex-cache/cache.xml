@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\beifen\ChangeSkin-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\beifen\ChangeSkin-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_60b80ee1edaf1bb6211de3f0ec8fbff475b6c622\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\beifen\ChangeSkin-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cefd6678ed3efb3a4c3811c8629428417c75dbb3">
+        <dex dex="D:\beifen\ChangeSkin-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_707168c8002b0a8284e8267de55cad3697200724\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\beifen\ChangeSkin-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\beifen\ChangeSkin-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_52f6c6773dbe6be3f359fe8465318e8da5e9aeee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\beifen\ChangeSkin-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ff3fcd6b03682c027f3b0fcb53d53cb290592e51">
+        <dex dex="D:\beifen\ChangeSkin-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c37644bb2e4ce51f6b32935b00bcf2fca1fb4f11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\beifen\ChangeSkin-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_160e21806fe4fcbe2b20c34d1bbde421f69a17ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\beifen\ChangeSkin-master\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="D:\beifen\ChangeSkin-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.0.0_8a8d01c40488760df7388d25eac4c286bb2810b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\beifen\ChangeSkin-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\beifen\ChangeSkin-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_21f175b68f5b8c8f572306c2258c4e1d25108b7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\beifen\ChangeSkin-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\beifen\ChangeSkin-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_3516d114d61fc18ed4ffd219fc2deebbf661f452\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\beifen\ChangeSkin-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="D:\beifen\ChangeSkin-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_10dea8f1159dfe2c22608334c64667b92986ad44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\beifen\ChangeSkin-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\beifen\ChangeSkin-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_4309a75535c9a400b1a619ae8084cf038dfad560\classes.dex" />
+    </item>
+
+</items>
